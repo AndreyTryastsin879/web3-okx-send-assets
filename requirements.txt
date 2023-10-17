@@ -1,0 +1,5 @@
+openpyxl==3.1.2
+pandas==2.1.1
+python-okx==0.2.2
+web3==6.11.0
+XlsxWriter==3.1.7

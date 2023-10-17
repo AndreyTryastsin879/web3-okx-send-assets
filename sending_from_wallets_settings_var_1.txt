@@ -1,0 +1,6 @@
+0x7500c937d5417c396e53125499889a8442a04379f77e7133fb6e2fe729805b56,0xf5f932dacbf7344ad813240f0104d1cc7dbb661,ETH,Abitrum,0.0035,https://arb-mainnet-public.unifra.io;
+0x20b07042e6441e554b30dfced0866462b7a7f37bb9d8b30e454ffcee69c007ce,0xf5f932dacbf7344ad813240f0104d1cc7dbb664,ETH,Optimism,0.1,https://optimism.meowrpc.com;
+0x0186ef92357a66788fd9196557573cd22381c3c4acc76c1376c65f08cbae64ae,0xf5f932dacbf7344ad813240f0104d1cc7dbb665,ETH,Abitrum,0.7,https://arb-mainnet-public.unifra.io;
+0x78fa3a27115057afd03b42c351deae01c97617a1c3c5968aeba62e865006f359,0xf5f932dacbf7344ad813240f0104d1cc7dbb666,AVAX,Avalanche,0.3,https://avalanche-c-chain.publicnode.com;
+0x3d6edd8823f6b6a8504e37b3c172d16470cfe0d4217ea6fd162574cc339370db,0xf5f932dacbf7344ad813240f0104d1cc7dbb667,ETH,Optimism,0.004,https://optimism.meowrpc.com;
+0x1d9d73176373121295b0c6ebea1398f512bc72af5e8a98a882ad8343cc2bdd12,0xf5f932dacbf7344ad813240f0104d1cc7dbb668,BNB,BSC,0.02,https://bsc-dataseed1.bnbchain.org;
