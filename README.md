@@ -31,13 +31,14 @@ get-assets-info.py - скрипт для получения информации
 count-withdrawal-cost-from-okx.py - скрипт для предварительного расчета необходимой суммы на балансе с учетом комиссий, чтобы осуществить отправку в скрипте withdraw-from-okx-to-wallets-var-1.py.
 
 ========================================================================
+
 EN
 
 Simple scripts to withdraw crypto from the OKX exchange to wallets, and scripts to send crypto from wallets to the exchange’s sub-accounts.
 
 You can find a detailed description of the code on the website:
 
-https://crypto-py.com/14-cex/83-otpravka-kripty-s-okx-na-koshelki-po-api-otpravka-kripty-s-koshelkov-na-sabakkauty-na-python-web3
+https://crypto-py.com/en/27-cex-automation/84-sending-crypto-from-okx-to-wallets-and-sending-from-wallets-to-sub-accounts
 
 Or in the .ipynb file in the repository.
 
